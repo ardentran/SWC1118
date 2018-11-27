@@ -1,0 +1,297 @@
+    1  python --version
+    2  python
+    3  anaconda --version
+    4  python
+    5  conda --version
+    6  python
+    7  git
+    8  sudo mv /usr/bin/git /usr/bin/git-system
+    9  sudo mv /usr/bin/git /usr/bin/git-system
+   10  sudo mv /usr/bin/git /usr/bin/git-system
+   11  anaconda --version
+   12  conda --version
+   13  conda update --all
+   14  conda --version
+   15  anaconda
+   16  anaconda --version
+   17  anaconda -version
+   18  python 
+   19  cd ~/desktop/data-shell
+   20  ln
+   21  ls
+   22  info
+   23  cd ~desktop/data-shell
+   24  cd ~/desktop/data-shell
+   25  cd ..
+   26  cd ...
+   27  cd .
+   28  cd
+   29  cd ~/desktop
+   30  cd ~/data-shell
+   31  cd ~/desktop/data-shell
+   32  cd /
+   33  cd / 
+   34  cd er
+   35  cd r
+   36  cd /r
+   37  cd ls
+   38  ls
+   39  cd ~/desktop/data-shell
+   40  pwd
+   41  cd ..
+   42  pwd
+   43  cd r
+   44  cd 
+   45  cd~/desktop/data-shell
+   46  cd ~/desktop/data-shell
+   47  pwd
+   48  cd ~
+   49  pwd
+   50  cd ~/desktop/data-shell
+   51  pwd
+   52  pwd
+   53  ..
+   54  cd ..
+   55  pwd
+   56  mkdir swc-test
+   57  rm swc-test
+   58  rm swc-test -f
+   59  rm 'swc-test'
+   60  cd
+   61  rm swc-test
+   62  cd ~/desktop
+   63  rm swc-test -f
+   64  rm swc-test -rf
+   65  ls
+   66  cd
+   67  cd do
+   68  cd
+   69  ls
+   70  cd Do
+   71  cd downloads
+   72  pwd
+   73  ls
+   74  cd ~/desktop/data-shell
+   75  cd ..
+   76  ls
+   77  cd data-shell
+   78  ls
+   79  pwd
+   80  ls
+   81  cd ~/desktop/data-shell
+   82  ls
+   83  cd ~/data
+   84  cd ../data
+   85  cd data
+   86  pwd
+   87  cd pdb/
+   88  ls -help
+   89  -help
+   90  help
+   91  ls
+   92  ls(1)
+   93  ls() ls
+   94  bash
+   95  cd ~/desktop/data-shell
+   96  ls
+   97  cd data/
+   98  cd pdb
+   99  ls -rth
+  100  ls
+  101  ls -rth
+  102  man ls
+  103  cd ~/desktop/data-shell/data/pdb/
+  104  ls -l
+  105  ls -lst
+  106  man ls
+  107  pwd
+  108  git
+  109  git --version
+  110  git
+  111  git --version
+  112  git --version
+  113  git config --global user.name "Arden Tran"
+  114  git config --global user.email "artran@ucsd.edu"
+  115  user.name
+  116  git user.name
+  117  git
+  118  cd 
+  119  cd ~/desktop
+  120  cd swc-git
+  121  mkdir swc-git
+  122  cd swc-git/
+  123  ls
+  124  git init
+  125  ls -a
+  126  git status
+  127  nano references.txt
+  128  git add references.txt
+  129  git status
+  130  git commit -m "YOLO SWAGGINS BABY THIS IS VERSION NUMERO UNO BRAH"
+  131  nano references.txt 
+  132  git status
+  133  git add references.txt 
+  134  git statue
+  135  git status
+  136  ls
+  137  ls -a
+  138  git commit -m "YOLO SWAGGINS WE ADDED GANDALF"
+  139  ls -a
+  140  git status
+  141  nano references.txt 
+  142  git add references.txt 
+  143  git status
+  144  git commit -m "added pupperino"
+  145  ls -a
+  146  ls
+  147  git branch
+  148  export PS1="\\w:\$(git branch 2>/dev/null | grep '^*' | colrm 1 2)\$ "
+  149  git
+  150  export PS1="\\w:\$(git branch 2>/dev/null | grep '^*' | colrm 1 2)\$ "
+  151  export PS1="\\w\$(__git_ps1 '(%s)') \$ "
+  152  PS1='\[\033[0;32m\]\[\033[0m\033[0;32m\]\u\[\033[0;36m\] @ \[\033[0;36m\]\h \w\[\033[0;32m\]$(__git_ps1)\n\[\033[0;32m\]└─\[\033[0m\033[0;32m\] \$\[\033[0m\033[0;32m\] ▶\[\033[0m\] '
+  153  git
+  154  git status
+  155  cd ~/desktop/swc-git/
+  156  git status
+  157  git add references.txt 
+  158  nano references.txt 
+  159  git add references.txt 
+  160  git status
+  161  git commit -m "added some verbose stuff about kinsfoil"
+  162  git status
+  163  nano references.txt 
+  164  git add references.txt 
+  165  git status
+  166  git commit -m "pupperino addendum"
+  167  git log
+  168  git long --oneline
+  169  git log --oneline
+  170  git diff HEAD 4acec1e references.txt 
+  171  cd ~/desktop/swc-git/
+  172  ls
+  173  git status
+  174  git add references.txt 
+  175  git log
+  176  git log --oneline
+  177  git diff HEAD c6b6e03
+  178  git checkout 566c137 references.txt 
+  179  git status
+  180  nano references.txt 
+  181  git commit -m "rollback brah"
+  182  git status
+  183  nano references.txt 
+  184  git -shortlog
+  185  git-shortlog
+  186  git --shortlog
+  187  git shortlog
+  188  git checkout HEAD references.txt 
+  189  git log --oneline
+  190  git checkout HEAD~5
+  191  git checkout HEAD~5
+  192  git checkout 776e703 references.txt 
+  193  git head
+  194  git log
+  195  git log --oneline
+  196  git reset
+  197  git reset 7763703
+  198  git log --oneline
+  199  git checkout 776e703 references.txt 
+  200  git status
+  201  git status
+  202  git checkout HEAD
+  203  git status
+  204  git checkout 'master'
+  205  git status
+  206  git log --oneline
+  207  cat references.txt 
+  208  nano references.txt 
+  209  git add references.txt 
+  210  git status
+  211  git commit -m "turtles"
+  212  git shortlog
+  213  git log --oneline
+  214  git checkout 5667c137 references.txt 
+  215  git checkout 566c137 references.txt 
+  216  git status
+  217  git checkout -b test-branch
+  218  git status
+  219  cat references.txt 
+  220  git checkout master
+  221  git status
+  222  git log --oneline
+  223  git branch
+  224  git checkout test-branch
+  225  git branch
+  226  git checkout master
+  227  git status
+  228  git branch
+  229  git commit -m "after branching"
+  230  git status
+  231  git add references.txt 
+  232  git status
+  233  git status
+  234  git branch
+  235  git reset HEAD -- references.txt 
+  236  git status
+  237  git checkout HEAD
+  238  git status
+  239  git checkout HEAD -- references.txt 
+  240  git status
+  241  nano references.txt 
+  242  git add references.txt 
+  243  git status
+  244  git reset HEAD references.txt 
+  245  git add references.txt 
+  246  git status
+  247  git commit -m "commit 2"
+  248  git log --oneline
+  249  ls -a
+  250  nano .gitignore
+  251  git status
+  252  mkdir Data
+  253  ls -a
+  254  git add Data
+  255  git commit -m "data folder"
+  256  branch
+  257  git branch
+  258  git branch -d test-branch
+  259  git branch
+  260  git commit -m "deleted test branch"
+  261  git log --oneline
+  262  git status
+  263  man git
+  264  git help --guide
+  265  git help --everyday
+  266  git help -g
+  267  git help --guides
+  268  git help --guides
+  269  git help --guide
+  270  git help everyday
+  271  git graph
+  272  git citool
+  273  ls
+  274  git remote
+  275  git remote man
+  276  git remote origin https://github.com/ardentran/SWC1118.git
+  277  git remote add origin https://github.com/ardentran/SWC1118.git
+  278  git remote -v
+  279  git push references.txt 
+  280  git push origin master
+  281  git push origin master
+  282  git push origin master
+  283  git push origin master
+  284  git push origin master
+  285  git push origin master
+  286  git add references.txt 
+  287  git commit -m "first commit"
+  288  git status
+  289  git shortlog
+  290  nano references.txt 
+  291  git add references.txt 
+  292  git status
+  293  git commit -m "bass2mouf"
+  294  git push man
+  295  git push
+  296  git push origin master
+  297  history > workshop-commands.txt
